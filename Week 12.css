@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://www.inhf.org/webres/Image/blog/Summer%2017%20Magazine/IMG_2950.jpg);
+}
+.container{
+    margin-top: 5%;
+}
+.card{
+    background-color: rgb(161, 205, 248);
+}
+#app{
+    margin-top: 1%;
+}

@@ -94,16 +94,7 @@ class DOMManager{/*initiate class and method to interact with the DOM*/
                     <div class="card">
                         <div class="row">
                             <div class="col-sm">
-                                <input type="text" id="${plant.id}-area-name" 
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                class="form-control" placeholder="Area name">
+                                <input type="text" id="${plant.id}-area-name" class="form-control" placeholder="Area name">
                                 <button onclick="DOMManager.addArea('${plant._id}', $('#${plant._id}-area-name').val())" id="new-plant-area" class="btn btn-primary form-control">Add area</button>      
                             </div>
                         </div>
